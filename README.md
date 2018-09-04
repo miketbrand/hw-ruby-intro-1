@@ -44,7 +44,7 @@ To ensure you have the rspec gem installed you need bundler and can then
 run bundle install like so:
 
 ```sh
-$ git clone <past github URL you copied above here>
+$ git clone <paste github URL you copied above here>
 $ cd hw-ruby-intro-1
 $ bundle install
 ```
