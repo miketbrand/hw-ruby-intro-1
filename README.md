@@ -4,7 +4,7 @@ Ruby Intro
 This 3-part homework gives some basic practice in Ruby as well as
 getting you accustomed to making testing a regular part of your workflow.
 
-**NOTE: Do not clone this repo to your workspace. Fork it first, then clone your fork. (Click the fok button in the top right. Then click the green clone/download button and copy the URL)**
+**NOTE: Do not clone this repo to your workspace. Fork it first, then clone your fork. (Click the fork button in the top right. Then click the green clone/download button and copy the URL)**
 
 Learning Goals
 --------------
