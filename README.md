@@ -4,7 +4,7 @@ Ruby Intro
 This 3-part homework gives some basic practice in Ruby as well as
 getting you accustomed to making testing a regular part of your workflow.
 
-**NOTE: Do not clone this repo to your workspace. Fork it first, then clone your fork.**
+**NOTE: Do not clone this repo to your workspace. Fork it first, then clone your fork. (Click the fok button in the top right. Then click the green clone/download button and copy the URL)**
 
 Learning Goals
 --------------
@@ -44,9 +44,9 @@ To ensure you have the rspec gem installed you need bundler and can then
 run bundle install like so:
 
 ```sh
-$ gem install bundler
-$ cd hw-ruby-intro
-$ bundle
+$ git clone <past github URL you copied above here>
+$ cd hw-ruby-intro-1
+$ bundle install
 ```
 
 When the above completes successfully you'll have RSpec installed and can
